@@ -25,7 +25,7 @@ const Navbar = () => {
         >
           <img src={logo} alt="Logo" className="w-9 object-contain" />
           <p className="text-white text-[18px] font-bold cuw-9 h-9 object-containrsor-pointer flex">
-            Parsa &nbsp;<span className="sm:block hidden">Jafari</span>
+            Parsa &nbsp;<span className="sm:block hidden">J.</span>
           </p>
         </Link>
         <ul className="list-none hidden sm:flex flex-row gap-10">
